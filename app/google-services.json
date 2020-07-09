@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "455882967661",
+    "firebase_url": "https://cameraxfaceml.firebaseio.com",
+    "project_id": "cameraxfaceml",
+    "storage_bucket": "cameraxfaceml.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455882967661:android:52a74e9235d75b25278d64",
+        "android_client_info": {
+          "package_name": "com.hpcnc.cameraxfaceml"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455882967661-drhi79s27r899vldghq8jrgt27ipadhk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUj9U_lhTrRvEzPQkqPjFAEFFgFi6BH04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455882967661-drhi79s27r899vldghq8jrgt27ipadhk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
